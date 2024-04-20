@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271186785582",
+    "project_id": "login-task-98f8c",
+    "storage_bucket": "login-task-98f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271186785582:android:a61cdd794c829c476536bf",
+        "android_client_info": {
+          "package_name": "com.example.login_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6ym0KehSj9iapMrGMvC8wH-PUZA1bSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
